@@ -1,0 +1,3701 @@
+acacia_chest_boat
+return Items.ACACIA_CHEST_BOAT;
+
+allay_spawn_egg
+return Items.ALLAY_SPAWN_EGG;
+
+birch_chest_boat
+return Items.BIRCH_CHEST_BOAT;
+
+tadpole_bucket
+return Items.TADPOLE_BUCKET;
+
+dark_oak_chest_boat
+return Items.DARK_OAK_CHEST_BOAT;
+
+echo_shard
+return Items.ECHO_SHARD;
+
+frog_spawn_egg
+return Items.FROG_SPAWN_EGG;
+
+frogspawn
+return Items.FROGSPAWN;
+
+goat_horn
+return Items.GOAT_HORN;
+
+jungle_chest_boat
+return Items.JUNGLE_CHEST_BOAT;
+
+mangrove_boat
+return Items.MANGROVE_BOAT;
+
+mangrove_chest_boat
+return Items.MANGROVE_CHEST_BOAT;
+
+mangrove_button
+return Items.MANGROVE_BUTTON;
+
+mangrove_door
+return Items.MANGROVE_DOOR;
+
+mangrove_fence
+return Items.MANGROVE_FENCE;
+
+mangrove_fence_gate
+return Items.MANGROVE_FENCE_GATE;
+
+mangrove_leaves
+return Items.MANGROVE_LEAVES;
+
+mangrove_log
+return Items.MANGROVE_LOG;
+
+mangrove_planks
+return Items.MANGROVE_PLANKS;
+
+mangrove_pressure_plate
+return Items.MANGROVE_PRESSURE_PLATE;
+
+mangrove_propagule
+return Items.MANGROVE_PROPAGULE;
+
+mangrove_roots
+return Items.MANGROVE_ROOTS;
+
+mangrove_sign
+return Items.MANGROVE_SIGN;
+
+mangrove_slab
+return Items.MANGROVE_SLAB;
+
+mangrove_stairs
+return Items.MANGROVE_STAIRS;
+
+mangrove_trapdoor
+return Items.MANGROVE_TRAPDOOR;
+
+mangrove_wood
+return Items.MANGROVE_WOOD;
+
+mud
+return Items.MUD;
+
+mud_brick_slab
+return Items.MUD_BRICK_SLAB;
+
+mud_brick_stairs
+return Items.MUD_BRICK_STAIRS;
+
+mud_brick_wall
+return Items.MUD_BRICK_WALL;
+
+mud_bricks
+return Items.MUD_BRICKS;
+
+muddy_mangrove_roots
+return Items.MUDDY_MANGROVE_ROOTS;
+
+oak_chest_boat
+return Items.OAK_CHEST_BOAT;
+
+ochre_froglight
+return Items.OCHRE_FROGLIGHT;
+
+packed_mud
+return Items.PACKED_MUD;
+
+pearlescent_froglight
+return Items.PEARLESCENT_FROGLIGHT;
+
+recovery_compass
+return Items.RECOVERY_COMPASS;
+
+reinforced_deepslate
+return Items.REINFORCED_DEEPSLATE;
+
+sculk
+return Items.SCULK;
+
+sculk_catalyst
+return Items.SCULK_CATALYST;
+
+sculk_shrieker
+return Items.SCULK_SHRIEKER;
+
+sculk_vein
+return Items.SCULK_VEIN;
+
+spruce_chest_boat
+return Items.SPRUCE_CHEST_BOAT;
+
+stripped_mangrove_log
+return Items.STRIPPED_MANGROVE_LOG;
+
+stripped_mangrove_wood
+return Items.STRIPPED_MANGROVE_WOOD;
+
+tadpole_spawn_egg
+return Items.TADPOLE_SPAWN_EGG;
+
+verdant_froglight
+return Items.VERDANT_FROGLIGHT;
+
+warden_spawn_egg
+return Items.WARDEN_SPAWN_EGG;
+
+amethyst_cluster
+return Items.AMETHYST_CLUSTER;
+
+amethyst_shard
+return Items.AMETHYST_SHARD;
+
+axolotl_spawn_egg
+return Items.AXOLOTL_SPAWN_EGG;
+
+azalea
+return Items.AZALEA;
+
+azalea_leaves
+return Items.AZALEA_LEAVES;
+
+big_dripleaf
+return Items.BIG_DRIPLEAF;
+
+black_candle
+return Items.BLACK_CANDLE;
+
+amethyst_block
+return Items.AMETHYST_BLOCK;
+
+copper_block
+return Items.COPPER_BLOCK;
+
+raw_copper_block
+return Items.RAW_COPPER_BLOCK;
+
+raw_gold_block
+return Items.RAW_GOLD_BLOCK;
+
+raw_iron_block
+return Items.RAW_IRON_BLOCK;
+
+blue_candle
+return Items.BLUE_CANDLE;
+
+brown_candle
+return Items.BROWN_CANDLE;
+
+axolotl_bucket
+return Items.AXOLOTL_BUCKET;
+
+budding_amethyst
+return Items.BUDDING_AMETHYST;
+
+bundle
+return Items.BUNDLE;
+
+calcite
+return Items.CALCITE;
+
+candle
+return Items.CANDLE;
+
+chiseled_deepslate
+return Items.CHISELED_DEEPSLATE;
+
+cobbled_deepslate
+return Items.COBBLED_DEEPSLATE;
+
+cobbled_deepslate_slab
+return Items.COBBLED_DEEPSLATE_SLAB;
+
+cobbled_deepslate_stairs
+return Items.COBBLED_DEEPSLATE_STAIRS;
+
+cobbled_deepslate_wall
+return Items.COBBLED_DEEPSLATE_WALL;
+
+copper_ingot
+return Items.COPPER_INGOT;
+
+copper_ore
+return Items.COPPER_ORE;
+
+cracked_deepslate_bricks
+return Items.CRACKED_DEEPSLATE_BRICKS;
+
+cracked_deepslate_tiles
+return Items.CRACKED_DEEPSLATE_TILES;
+
+cut_copper
+return Items.CUT_COPPER;
+
+cut_copper_slab
+return Items.CUT_COPPER_SLAB;
+
+cut_copper_stairs
+return Items.CUT_COPPER_STAIRS;
+
+cyan_candle
+return Items.CYAN_CANDLE;
+
+deepslate
+return Items.DEEPSLATE;
+
+deepslate_brick_slab
+return Items.DEEPSLATE_BRICK_SLAB;
+
+deepslate_brick_stairs
+return Items.DEEPSLATE_BRICK_STAIRS;
+
+deepslate_brick_wall
+return Items.DEEPSLATE_BRICK_WALL;
+
+deepslate_bricks
+return Items.DEEPSLATE_BRICKS;
+
+deepslate_coal_ore
+return Items.DEEPSLATE_COAL_ORE;
+
+deepslate_copper_ore
+return Items.DEEPSLATE_COPPER_ORE;
+
+deepslate_diamond_ore
+return Items.DEEPSLATE_DIAMOND_ORE;
+
+deepslate_emerald_ore
+return Items.DEEPSLATE_EMERALD_ORE;
+
+deepslate_gold_ore
+return Items.DEEPSLATE_GOLD_ORE;
+
+deepslate_iron_ore
+return Items.DEEPSLATE_IRON_ORE;
+
+deepslate_lapis_lazuli_ore
+return Items.DEEPSLATE_LAPIS_ORE;
+
+deepslate_redstone_ore
+return Items.DEEPSLATE_REDSTONE_ORE;
+
+deepslate_tile_slab
+return Items.DEEPSLATE_TILE_SLAB;
+
+deepslate_tile_stairs
+return Items.DEEPSLATE_TILE_STAIRS;
+
+deepslate_tile_wall
+return Items.DEEPSLATE_TILE_WALL;
+
+deepslate_tiles
+return Items.DEEPSLATE_TILES;
+
+dripstone_block
+return Items.DRIPSTONE_BLOCK;
+
+exposed_copper
+return Items.EXPOSED_COPPER;
+
+exposed_cut_copper
+return Items.EXPOSED_CUT_COPPER;
+
+exposed_cut_copper_slab
+return Items.EXPOSED_CUT_COPPER_SLAB;
+
+exposed_cut_copper_stairs
+return Items.EXPOSED_CUT_COPPER_STAIRS;
+
+flowering_azalea
+return Items.FLOWERING_AZALEA;
+
+flowering_azalea_leaves
+return Items.FLOWERING_AZALEA_LEAVES;
+
+glow_berries
+return Items.GLOW_BERRIES;
+
+glow_ink_sac
+return Items.GLOW_INK_SAC;
+
+glow_item_frame
+return Items.GLOW_ITEM_FRAME;
+
+glow_lichen
+return Items.GLOW_LICHEN;
+
+glow_squid_spawn_egg
+return Items.GLOW_SQUID_SPAWN_EGG;
+
+goat_spawn_egg
+return Items.GOAT_SPAWN_EGG;
+
+gray_candle
+return Items.GRAY_CANDLE;
+
+green_candle
+return Items.GREEN_CANDLE;
+
+hanging_roots
+return Items.HANGING_ROOTS;
+
+infested_deepslate
+return Items.INFESTED_DEEPSLATE;
+
+large_amethyst_bud
+return Items.LARGE_AMETHYST_BUD;
+
+light
+return Items.LIGHT;
+
+light_blue_candle
+return Items.LIGHT_BLUE_CANDLE;
+
+light_gray_candle
+return Items.LIGHT_GRAY_CANDLE;
+
+lightning_rod
+return Items.LIGHTNING_ROD;
+
+lime_candle
+return Items.LIME_CANDLE;
+
+magenta_candle
+return Items.MAGENTA_CANDLE;
+
+medium_amethyst_bud
+return Items.MEDIUM_AMETHYST_BUD;
+
+moss_block
+return Items.MOSS_BLOCK;
+
+moss_carpet
+return Items.MOSS_CARPET;
+
+orange_candle
+return Items.ORANGE_CANDLE;
+
+oxidized_copper
+return Items.OXIDIZED_COPPER;
+
+oxidized_cut_copper
+return Items.OXIDIZED_CUT_COPPER;
+
+oxidized_cut_copper_slab
+return Items.OXIDIZED_CUT_COPPER_SLAB;
+
+oxidized_cut_copper_stairs
+return Items.OXIDIZED_CUT_COPPER_STAIRS;
+
+pink_candle
+return Items.PINK_CANDLE;
+
+pointed_dripstone
+return Items.POINTED_DRIPSTONE;
+
+polished_deepslate
+return Items.POLISHED_DEEPSLATE;
+
+polished_deepslate_slab
+return Items.POLISHED_DEEPSLATE_SLAB;
+
+polished_deepslate_stairs
+return Items.POLISHED_DEEPSLATE_STAIRS;
+
+polished_deepslate_wall
+return Items.POLISHED_DEEPSLATE_WALL;
+
+powder_snow_bucket
+return Items.POWDER_SNOW_BUCKET;
+
+purple_candle
+return Items.PURPLE_CANDLE;
+
+raw_copper
+return Items.RAW_COPPER;
+
+raw_gold
+return Items.RAW_GOLD;
+
+raw_iron
+return Items.RAW_IRON;
+
+red_candle
+return Items.RED_CANDLE;
+
+rooted_dirt
+return Items.ROOTED_DIRT;
+
+sculk_sensor
+return Items.SCULK_SENSOR;
+
+small_amethyst_bud
+return Items.SMALL_AMETHYST_BUD;
+
+small_dripleaf
+return Items.SMALL_DRIPLEAF;
+
+smooth_basalt
+return Items.SMOOTH_BASALT;
+
+spore_blossom
+return Items.SPORE_BLOSSOM;
+
+tinted_glass
+return Items.TINTED_GLASS;
+
+tuff
+return Items.TUFF;
+
+waxed_copper_block
+return Items.WAXED_COPPER_BLOCK;
+
+waxed_cut_copper
+return Items.WAXED_CUT_COPPER;
+
+waxed_cut_copper_slab
+return Items.WAXED_CUT_COPPER_SLAB;
+
+waxed_cut_copper_stairs
+return Items.WAXED_CUT_COPPER_STAIRS;
+
+waxed_exposed_copper
+return Items.WAXED_EXPOSED_COPPER;
+
+waxed_exposed_cut_copper
+return Items.WAXED_EXPOSED_CUT_COPPER;
+
+waxed_exposed_cut_copper_slab
+return Items.WAXED_EXPOSED_CUT_COPPER_SLAB;
+
+waxed_exposed_cut_copper_stairs
+return Items.WAXED_EXPOSED_CUT_COPPER_STAIRS;
+
+waxed_oxidized_copper
+return Items.WAXED_OXIDIZED_COPPER;
+
+waxed_oxidized_cut_copper
+return Items.WAXED_OXIDIZED_CUT_COPPER;
+
+waxed_oxidized_cut_copper_slab
+return Items.WAXED_OXIDIZED_CUT_COPPER_SLAB;
+
+waxed_oxidized_cut_copper_stairs
+return Items.WAXED_OXIDIZED_CUT_COPPER_STAIRS;
+
+waxed_weathered_copper
+return Items.WAXED_WEATHERED_COPPER;
+
+waxed_weathered_cut_copper
+return Items.WAXED_WEATHERED_CUT_COPPER;
+
+waxed_weathered_cut_copper_slab
+return Items.WAXED_WEATHERED_CUT_COPPER_SLAB;
+
+waxed_weathered_cut_copper_stairs
+return Items.WAXED_WEATHERED_CUT_COPPER_STAIRS;
+
+weathered_copper
+return Items.WEATHERED_COPPER;
+
+weathered_cut_copper
+return Items.WEATHERED_CUT_COPPER;
+
+weathered_cut_copper_slab
+return Items.WEATHERED_CUT_COPPER_SLAB;
+
+weathered_cut_copper_stairs
+return Items.WEATHERED_CUT_COPPER_STAIRS;
+
+white_candle
+return Items.WHITE_CANDLE;
+
+yellow_candle
+return Items.YELLOW_CANDLE;
+
+acacia_hanging_sign
+return Items.ACACIA_HANGING_SIGN;
+
+angler_pottery_sherd
+return Items.ANGLER_POTTERY_SHERD;
+
+archer_pottery_sherd
+return Items.ARCHER_POTTERY_SHERD;
+
+arms_up_pottery_sherd
+return Items.ARMS_UP_POTTERY_SHERD;
+
+bamboo_button
+return Items.BAMBOO_BUTTON;
+
+bamboo_door
+return Items.BAMBOO_DOOR;
+
+bamboo_fence
+return Items.BAMBOO_FENCE;
+
+bamboo_fence_gate
+return Items.BAMBOO_FENCE_GATE;
+
+bamboo_hanging_sign
+return Items.BAMBOO_HANGING_SIGN;
+
+bamboo_mosaic
+return Items.BAMBOO_MOSAIC;
+
+bamboo_mosaic_slab
+return Items.BAMBOO_MOSAIC_SLAB;
+
+bamboo_mosaic_stairs
+return Items.BAMBOO_MOSAIC_STAIRS;
+
+bamboo_planks
+return Items.BAMBOO_PLANKS;
+
+bamboo_pressure_plate
+return Items.BAMBOO_PRESSURE_PLATE;
+
+bamboo_raft
+return Items.BAMBOO_RAFT;
+
+bamboo_raft_with_chest
+return Items.BAMBOO_CHEST_RAFT;
+
+bamboo_sign
+return Items.BAMBOO_SIGN;
+
+bamboo_slab
+return Items.BAMBOO_SLAB;
+
+bamboo_stairs
+return Items.BAMBOO_STAIRS;
+
+bamboo_trapdoor
+return Items.BAMBOO_TRAPDOOR;
+
+birch_hanging_sign
+return Items.BIRCH_HANGING_SIGN;
+
+blade_pottery_sherd
+return Items.BLADE_POTTERY_SHERD;
+
+bamboo_block
+return Items.BAMBOO_BLOCK;
+
+stripped_bamboo_block
+return Items.STRIPPED_BAMBOO_BLOCK;
+
+brewer_pottery_sherd
+return Items.BREWER_POTTERY_SHERD;
+
+brush
+return Items.BRUSH;
+
+burn_pottery_sherd
+return Items.BURN_POTTERY_SHERD;
+
+calibrated_sculk_sensor
+return Items.CALIBRATED_SCULK_SENSOR;
+
+camel_spawn_egg
+return Items.CAMEL_SPAWN_EGG;
+
+cherry_boat
+return Items.CHERRY_BOAT;
+
+cherry_boat_with_chest
+return Items.CHERRY_CHEST_BOAT;
+
+cherry_button
+return Items.CHERRY_BUTTON;
+
+cherry_door
+return Items.CHERRY_DOOR;
+
+cherry_fence
+return Items.CHERRY_FENCE;
+
+cherry_fence_gate
+return Items.CHERRY_FENCE_GATE;
+
+cherry_hanging_sign
+return Items.CHERRY_HANGING_SIGN;
+
+cherry_leaves
+return Items.CHERRY_LEAVES;
+
+cherry_log
+return Items.CHERRY_LOG;
+
+cherry_planks
+return Items.CHERRY_PLANKS;
+
+cherry_pressure_plate
+return Items.CHERRY_PRESSURE_PLATE;
+
+cherry_sapling
+return Items.CHERRY_SAPLING;
+
+cherry_sign
+return Items.CHERRY_SIGN;
+
+cherry_slab
+return Items.CHERRY_SLAB;
+
+cherry_stairs
+return Items.CHERRY_STAIRS;
+
+cherry_trapdoor
+return Items.CHERRY_TRAPDOOR;
+
+cherry_wood
+return Items.CHERRY_WOOD;
+
+chiseled_bookshelf
+return Items.CHISELED_BOOKSHELF;
+
+crimson_hanging_sign
+return Items.CRIMSON_HANGING_SIGN;
+
+danger_pottery_sherd
+return Items.DANGER_POTTERY_SHERD;
+
+dark_oak_hanging_sign
+return Items.DARK_OAK_HANGING_SIGN;
+
+decorated_pot
+return Items.DECORATED_POT;
+
+ender_dragon_spawn_egg
+return Items.ENDER_DRAGON_SPAWN_EGG;
+
+explorer_pottery_sherd
+return Items.EXPLORER_POTTERY_SHERD;
+
+friend_pottery_sherd
+return Items.FRIEND_POTTERY_SHERD;
+
+heart_pottery_sherd
+return Items.HEART_POTTERY_SHERD;
+
+heartbreak_pottery_sherd
+return Items.HEARTBREAK_POTTERY_SHERD;
+
+howl_pottery_sherd
+return Items.HOWL_POTTERY_SHERD;
+
+jungle_hanging_sign
+return Items.JUNGLE_HANGING_SIGN;
+
+mangrove_hanging_sign
+return Items.MANGROVE_HANGING_SIGN;
+
+miner_pottery_sherd
+return Items.MINER_POTTERY_SHERD;
+
+mourner_pottery_sherd
+return Items.MOURNER_POTTERY_SHERD;
+
+oak_hanging_sign
+return Items.OAK_HANGING_SIGN;
+
+piglin_head
+return Items.PIGLIN_HEAD;
+
+pink_petals
+return Items.PINK_PETALS;
+
+pitcher_plant
+return Items.PITCHER_PLANT;
+
+pitcher_pod
+return Items.PITCHER_POD;
+
+plenty_pottery_sherd
+return Items.PLENTY_POTTERY_SHERD;
+
+prize_pottery_sherd
+return Items.PRIZE_POTTERY_SHERD;
+
+sheaf_pottery_sherd
+return Items.SHEAF_POTTERY_SHERD;
+
+shelter_pottery_sherd
+return Items.SHELTER_POTTERY_SHERD;
+
+skull_pottery_sherd
+return Items.SKULL_POTTERY_SHERD;
+
+sniffer_egg
+return Items.SNIFFER_EGG;
+
+sniffer_spawn_egg
+return Items.SNIFFER_SPAWN_EGG;
+
+snort_pottery_sherd
+return Items.SNORT_POTTERY_SHERD;
+
+snow_golem_spawn_egg
+return Items.SNOW_GOLEM_SPAWN_EGG;
+
+spruce_hanging_sign
+return Items.SPRUCE_HANGING_SIGN;
+
+stripped_cherry_log
+return Items.STRIPPED_CHERRY_LOG;
+
+stripped_cherry_wood
+return Items.STRIPPED_CHERRY_WOOD;
+
+suspicious_gravel
+return Items.SUSPICIOUS_GRAVEL;
+
+suspicious_sand
+return Items.SUSPICIOUS_SAND;
+
+torchflower
+return Items.TORCHFLOWER;
+
+torchflower_seeds
+return Items.TORCHFLOWER_SEEDS;
+
+warped_hanging_sign
+return Items.WARPED_HANGING_SIGN;
+
+wither_spawn_egg
+return Items.WITHER_SPAWN_EGG;
+
+acacia_boat
+return Items.ACACIA_BOAT;
+
+acacia_button
+return Items.ACACIA_BUTTON;
+
+acacia_door
+return Items.ACACIA_DOOR;
+
+acacia_fence
+return Items.ACACIA_FENCE;
+
+acacia_fence_gate
+return Items.ACACIA_FENCE_GATE;
+
+acacia_leaves
+return Items.ACACIA_LEAVES;
+
+acacia_log
+return Items.ACACIA_LOG;
+
+acacia_planks
+return Items.ACACIA_PLANKS;
+
+acacia_pressure_plate
+return Items.ACACIA_PRESSURE_PLATE;
+
+acacia_sapling
+return Items.ACACIA_SAPLING;
+
+acacia_sign
+return Items.ACACIA_SIGN;
+
+acacia_slab
+return Items.ACACIA_SLAB;
+
+acacia_stairs
+return Items.ACACIA_STAIRS;
+
+acacia_trapdoor
+return Items.ACACIA_TRAPDOOR;
+
+acacia_wood
+return Items.ACACIA_WOOD;
+
+activator_rail
+return Items.ACTIVATOR_RAIL;
+
+air
+return Items.AIR;
+
+allium
+return Items.ALLIUM;
+
+ancient_debris
+return Items.ANCIENT_DEBRIS;
+
+andesite
+return Items.ANDESITE;
+
+andesite_slab
+return Items.ANDESITE_SLAB;
+
+andesite_stairs
+return Items.ANDESITE_STAIRS;
+
+andesite_wall
+return Items.ANDESITE_WALL;
+
+anvil
+return Items.ANVIL;
+
+apple
+return Items.APPLE;
+
+armor_stand
+return Items.ARMOR_STAND;
+
+arrow
+return Items.ARROW;
+
+azure_bluet
+return Items.AZURE_BLUET;
+
+baked_potato
+return Items.BAKED_POTATO;
+
+bamboo
+return Items.BAMBOO;
+
+barrel
+return Items.BARREL;
+
+barrier
+return Items.BARRIER;
+
+basalt
+return Items.BASALT;
+
+bat_spawn_egg
+return Items.BAT_SPAWN_EGG;
+
+beacon
+return Items.BEACON;
+
+bedrock
+return Items.BEDROCK;
+
+bee_nest
+return Items.BEE_NEST;
+
+bee_spawn_egg
+return Items.BEE_SPAWN_EGG;
+
+beef
+return Items.BEEF;
+
+beehive
+return Items.BEEHIVE;
+
+beetroot
+return Items.BEETROOT;
+
+beetroot_seeds
+return Items.BEETROOT_SEEDS;
+
+beetroot_soup
+return Items.BEETROOT_SOUP;
+
+bell
+return Items.BELL;
+
+birch_boat
+return Items.BIRCH_BOAT;
+
+birch_button
+return Items.BIRCH_BUTTON;
+
+birch_door
+return Items.BIRCH_DOOR;
+
+birch_fence
+return Items.BIRCH_FENCE;
+
+birch_fence_gate
+return Items.BIRCH_FENCE_GATE;
+
+birch_leaves
+return Items.BIRCH_LEAVES;
+
+birch_log
+return Items.BIRCH_LOG;
+
+birch_planks
+return Items.BIRCH_PLANKS;
+
+birch_pressure_plate
+return Items.BIRCH_PRESSURE_PLATE;
+
+birch_sapling
+return Items.BIRCH_SAPLING;
+
+birch_sign
+return Items.BIRCH_SIGN;
+
+birch_slab
+return Items.BIRCH_SLAB;
+
+birch_stairs
+return Items.BIRCH_STAIRS;
+
+birch_trapdoor
+return Items.BIRCH_TRAPDOOR;
+
+birch_wood
+return Items.BIRCH_WOOD;
+
+black_banner
+return Items.BLACK_BANNER;
+
+black_bed
+return Items.BLACK_BED;
+
+black_carpet
+return Items.BLACK_CARPET;
+
+black_concrete
+return Items.BLACK_CONCRETE;
+
+black_concrete_powder
+return Items.BLACK_CONCRETE_POWDER;
+
+black_dye
+return Items.BLACK_DYE;
+
+black_glazed_terracotta
+return Items.BLACK_GLAZED_TERRACOTTA;
+
+black_shulker_box
+return Items.BLACK_SHULKER_BOX;
+
+black_stained_glass
+return Items.BLACK_STAINED_GLASS;
+
+black_stained_glass_pane
+return Items.BLACK_STAINED_GLASS_PANE;
+
+black_terracotta
+return Items.BLACK_TERRACOTTA;
+
+black_wool
+return Items.BLACK_WOOL;
+
+blackstone
+return Items.BLACKSTONE;
+
+blackstone_slab
+return Items.BLACKSTONE_SLAB;
+
+blackstone_stairs
+return Items.BLACKSTONE_STAIRS;
+
+blackstone_wall
+return Items.BLACKSTONE_WALL;
+
+blast_furnace
+return Items.BLAST_FURNACE;
+
+blaze_powder
+return Items.BLAZE_POWDER;
+
+blaze_rod
+return Items.BLAZE_ROD;
+
+blaze_spawn_egg
+return Items.BLAZE_SPAWN_EGG;
+
+blue_banner
+return Items.BLUE_BANNER;
+
+blue_bed
+return Items.BLUE_BED;
+
+blue_carpet
+return Items.BLUE_CARPET;
+
+blue_concrete
+return Items.BLUE_CONCRETE;
+
+blue_concrete_powder
+return Items.BLUE_CONCRETE_POWDER;
+
+blue_dye
+return Items.BLUE_DYE;
+
+blue_glazed_terracotta
+return Items.BLUE_GLAZED_TERRACOTTA;
+
+blue_ice
+return Items.BLUE_ICE;
+
+blue_orchid
+return Items.BLUE_ORCHID;
+
+blue_shulker_box
+return Items.BLUE_SHULKER_BOX;
+
+blue_stained_glass
+return Items.BLUE_STAINED_GLASS;
+
+blue_stained_glass_pane
+return Items.BLUE_STAINED_GLASS_PANE;
+
+blue_terracotta
+return Items.BLUE_TERRACOTTA;
+
+blue_wool
+return Items.BLUE_WOOL;
+
+bone
+return Items.BONE;
+
+bone_block
+return Items.BONE_BLOCK;
+
+bone_meal
+return Items.BONE_MEAL;
+
+book
+return Items.BOOK;
+
+bookshelf
+return Items.BOOKSHELF;
+
+bow
+return Items.BOW;
+
+bowl
+return Items.BOWL;
+
+brain_coral
+return Items.BRAIN_CORAL;
+
+brain_coral_block
+return Items.BRAIN_CORAL_BLOCK;
+
+brain_coral_fan
+return Items.BRAIN_CORAL_FAN;
+
+bread
+return Items.BREAD;
+
+brewing_stand
+return Items.BREWING_STAND;
+
+brick
+return Items.BRICK;
+
+brick_slab
+return Items.BRICK_SLAB;
+
+brick_stairs
+return Items.BRICK_STAIRS;
+
+brick_wall
+return Items.BRICK_WALL;
+
+bricks
+return Items.BRICKS;
+
+brown_banner
+return Items.BROWN_BANNER;
+
+brown_bed
+return Items.BROWN_BED;
+
+brown_carpet
+return Items.BROWN_CARPET;
+
+brown_concrete
+return Items.BROWN_CONCRETE;
+
+brown_concrete_powder
+return Items.BROWN_CONCRETE_POWDER;
+
+brown_dye
+return Items.BROWN_DYE;
+
+brown_glazed_terracotta
+return Items.BROWN_GLAZED_TERRACOTTA;
+
+brown_mushroom
+return Items.BROWN_MUSHROOM;
+
+brown_mushroom_block
+return Items.BROWN_MUSHROOM_BLOCK;
+
+brown_shulker_box
+return Items.BROWN_SHULKER_BOX;
+
+brown_stained_glass
+return Items.BROWN_STAINED_GLASS;
+
+brown_stained_glass_pane
+return Items.BROWN_STAINED_GLASS_PANE;
+
+brown_terracotta
+return Items.BROWN_TERRACOTTA;
+
+brown_wool
+return Items.BROWN_WOOL;
+
+bubble_coral
+return Items.BUBBLE_CORAL;
+
+bubble_coral_block
+return Items.BUBBLE_CORAL_BLOCK;
+
+bubble_coral_fan
+return Items.BUBBLE_CORAL_FAN;
+
+bucket
+return Items.BUCKET;
+
+cactus
+return Items.CACTUS;
+
+cake
+return Items.CAKE;
+
+campfire
+return Items.CAMPFIRE;
+
+carrot
+return Items.CARROT;
+
+carrot_on_a_stick
+return Items.CARROT_ON_A_STICK;
+
+cartography_table
+return Items.CARTOGRAPHY_TABLE;
+
+carved_pumpkin
+return Items.CARVED_PUMPKIN;
+
+cat_spawn_egg
+return Items.CAT_SPAWN_EGG;
+
+cauldron
+return Items.CAULDRON;
+
+cave_spider_spawn_egg
+return Items.CAVE_SPIDER_SPAWN_EGG;
+
+chain
+return Items.CHAIN;
+
+chain_command_block
+return Items.CHAIN_COMMAND_BLOCK;
+
+chainmail_boots
+return Items.CHAINMAIL_BOOTS;
+
+chainmail_chestplate
+return Items.CHAINMAIL_CHESTPLATE;
+
+chainmail_helmet
+return Items.CHAINMAIL_HELMET;
+
+chainmail_leggings
+return Items.CHAINMAIL_LEGGINGS;
+
+charcoal
+return Items.CHARCOAL;
+
+chest
+return Items.CHEST;
+
+chest_minecart
+return Items.CHEST_MINECART;
+
+chicken
+return Items.CHICKEN;
+
+chicken_spawn_egg
+return Items.CHICKEN_SPAWN_EGG;
+
+chipped_anvil
+return Items.CHIPPED_ANVIL;
+
+chiseled_nether_bricks
+return Items.CHISELED_NETHER_BRICKS;
+
+chiseled_polished_blackstone
+return Items.CHISELED_POLISHED_BLACKSTONE;
+
+chiseled_quartz_block
+return Items.CHISELED_QUARTZ_BLOCK;
+
+chiseled_red_sandstone
+return Items.CHISELED_RED_SANDSTONE;
+
+chiseled_sandstone
+return Items.CHISELED_SANDSTONE;
+
+chiseled_stone_bricks
+return Items.CHISELED_STONE_BRICKS;
+
+chorus_flower
+return Items.CHORUS_FLOWER;
+
+chorus_fruit
+return Items.CHORUS_FRUIT;
+
+chorus_plant
+return Items.CHORUS_PLANT;
+
+clay
+return Items.CLAY;
+
+clay_ball
+return Items.CLAY_BALL;
+
+clock
+return Items.CLOCK;
+
+coal
+return Items.COAL;
+
+coal_block
+return Items.COAL_BLOCK;
+
+coal_ore
+return Items.COAL_ORE;
+
+coarse_dirt
+return Items.COARSE_DIRT;
+
+cobblestone
+return Items.COBBLESTONE;
+
+cobblestone_slab
+return Items.COBBLESTONE_SLAB;
+
+cobblestone_stairs
+return Items.COBBLESTONE_STAIRS;
+
+cobblestone_wall
+return Items.COBBLESTONE_WALL;
+
+cobweb
+return Items.COBWEB;
+
+cocoa_beans
+return Items.COCOA_BEANS;
+
+cod
+return Items.COD;
+
+cod_bucket
+return Items.COD_BUCKET;
+
+cod_spawn_egg
+return Items.COD_SPAWN_EGG;
+
+command_block
+return Items.COMMAND_BLOCK;
+
+command_block_minecart
+return Items.COMMAND_BLOCK_MINECART;
+
+comparator
+return Items.COMPARATOR;
+
+compass
+return Items.COMPASS;
+
+composter
+return Items.COMPOSTER;
+
+conduit
+return Items.CONDUIT;
+
+cooked_beef
+return Items.COOKED_BEEF;
+
+cooked_chicken
+return Items.COOKED_CHICKEN;
+
+cooked_cod
+return Items.COOKED_COD;
+
+cooked_mutton
+return Items.COOKED_MUTTON;
+
+cooked_porkchop
+return Items.COOKED_PORKCHOP;
+
+cooked_rabbit
+return Items.COOKED_RABBIT;
+
+cooked_salmon
+return Items.COOKED_SALMON;
+
+cookie
+return Items.COOKIE;
+
+cornflower
+return Items.CORNFLOWER;
+
+cow_spawn_egg
+return Items.COW_SPAWN_EGG;
+
+cracked_nether_bricks
+return Items.CRACKED_NETHER_BRICKS;
+
+cracked_polished_blackstone_bricks
+return Items.CRACKED_POLISHED_BLACKSTONE_BRICKS;
+
+cracked_stone_bricks
+return Items.CRACKED_STONE_BRICKS;
+
+crafting_table
+return Items.CRAFTING_TABLE;
+
+creeper_banner_pattern
+return Items.CREEPER_BANNER_PATTERN;
+
+creeper_head
+return Items.CREEPER_HEAD;
+
+creeper_spawn_egg
+return Items.CREEPER_SPAWN_EGG;
+
+crimson_button
+return Items.CRIMSON_BUTTON;
+
+crimson_door
+return Items.CRIMSON_DOOR;
+
+crimson_fence
+return Items.CRIMSON_FENCE;
+
+crimson_fence_gate
+return Items.CRIMSON_FENCE_GATE;
+
+crimson_fungus
+return Items.CRIMSON_FUNGUS;
+
+crimson_hyphae
+return Items.CRIMSON_HYPHAE;
+
+crimson_nylium
+return Items.CRIMSON_NYLIUM;
+
+crimson_planks
+return Items.CRIMSON_PLANKS;
+
+crimson_pressure_plate
+return Items.CRIMSON_PRESSURE_PLATE;
+
+crimson_roots
+return Items.CRIMSON_ROOTS;
+
+crimson_sign
+return Items.CRIMSON_SIGN;
+
+crimson_slab
+return Items.CRIMSON_SLAB;
+
+crimson_stairs
+return Items.CRIMSON_STAIRS;
+
+crimson_stem
+return Items.CRIMSON_STEM;
+
+crimson_trapdoor
+return Items.CRIMSON_TRAPDOOR;
+
+crossbow
+return Items.CROSSBOW;
+
+crying_obsidian
+return Items.CRYING_OBSIDIAN;
+
+cut_red_sandstone
+return Items.CUT_RED_SANDSTONE;
+
+cut_red_sandstone_slab
+return Items.CUT_RED_SANDSTONE_SLAB;
+
+cut_sandstone
+return Items.CUT_SANDSTONE;
+
+cut_sandstone_slab
+return Items.CUT_SANDSTONE_SLAB;
+
+cyan_banner
+return Items.CYAN_BANNER;
+
+cyan_bed
+return Items.CYAN_BED;
+
+cyan_carpet
+return Items.CYAN_CARPET;
+
+cyan_concrete
+return Items.CYAN_CONCRETE;
+
+cyan_concrete_powder
+return Items.CYAN_CONCRETE_POWDER;
+
+cyan_dye
+return Items.CYAN_DYE;
+
+cyan_glazed_terracotta
+return Items.CYAN_GLAZED_TERRACOTTA;
+
+cyan_shulker_box
+return Items.CYAN_SHULKER_BOX;
+
+cyan_stained_glass
+return Items.CYAN_STAINED_GLASS;
+
+cyan_stained_glass_pane
+return Items.CYAN_STAINED_GLASS_PANE;
+
+cyan_terracotta
+return Items.CYAN_TERRACOTTA;
+
+cyan_wool
+return Items.CYAN_WOOL;
+
+damaged_anvil
+return Items.DAMAGED_ANVIL;
+
+dandelion
+return Items.DANDELION;
+
+dark_oak_boat
+return Items.DARK_OAK_BOAT;
+
+dark_oak_button
+return Items.DARK_OAK_BUTTON;
+
+dark_oak_door
+return Items.DARK_OAK_DOOR;
+
+dark_oak_fence
+return Items.DARK_OAK_FENCE;
+
+dark_oak_fence_gate
+return Items.DARK_OAK_FENCE_GATE;
+
+dark_oak_leaves
+return Items.DARK_OAK_LEAVES;
+
+dark_oak_log
+return Items.DARK_OAK_LOG;
+
+dark_oak_planks
+return Items.DARK_OAK_PLANKS;
+
+dark_oak_pressure_plate
+return Items.DARK_OAK_PRESSURE_PLATE;
+
+dark_oak_sapling
+return Items.DARK_OAK_SAPLING;
+
+dark_oak_sign
+return Items.DARK_OAK_SIGN;
+
+dark_oak_slab
+return Items.DARK_OAK_SLAB;
+
+dark_oak_stairs
+return Items.DARK_OAK_STAIRS;
+
+dark_oak_trapdoor
+return Items.DARK_OAK_TRAPDOOR;
+
+dark_oak_wood
+return Items.DARK_OAK_WOOD;
+
+dark_prismarine
+return Items.DARK_PRISMARINE;
+
+dark_prismarine_slab
+return Items.DARK_PRISMARINE_SLAB;
+
+dark_prismarine_stairs
+return Items.DARK_PRISMARINE_STAIRS;
+
+daylight_detector
+return Items.DAYLIGHT_DETECTOR;
+
+dead_brain_coral
+return Items.DEAD_BRAIN_CORAL;
+
+dead_brain_coral_block
+return Items.DEAD_BRAIN_CORAL_BLOCK;
+
+dead_brain_coral_fan
+return Items.DEAD_BRAIN_CORAL_FAN;
+
+dead_bubble_coral
+return Items.DEAD_BUBBLE_CORAL;
+
+dead_bubble_coral_block
+return Items.DEAD_BUBBLE_CORAL_BLOCK;
+
+dead_bubble_coral_fan
+return Items.DEAD_BUBBLE_CORAL_FAN;
+
+dead_bush
+return Items.DEAD_BUSH;
+
+dead_fire_coral
+return Items.DEAD_FIRE_CORAL;
+
+dead_fire_coral_block
+return Items.DEAD_FIRE_CORAL_BLOCK;
+
+dead_fire_coral_fan
+return Items.DEAD_FIRE_CORAL_FAN;
+
+dead_horn_coral
+return Items.DEAD_HORN_CORAL;
+
+dead_horn_coral_block
+return Items.DEAD_HORN_CORAL_BLOCK;
+
+dead_horn_coral_fan
+return Items.DEAD_HORN_CORAL_FAN;
+
+dead_tube_coral
+return Items.DEAD_TUBE_CORAL;
+
+dead_tube_coral_block
+return Items.DEAD_TUBE_CORAL_BLOCK;
+
+dead_tube_coral_fan
+return Items.DEAD_TUBE_CORAL_FAN;
+
+debug_stick
+return Items.DEBUG_STICK;
+
+detector_rail
+return Items.DETECTOR_RAIL;
+
+diamond
+return Items.DIAMOND;
+
+diamond_axe
+return Items.DIAMOND_AXE;
+
+diamond_block
+return Items.DIAMOND_BLOCK;
+
+diamond_boots
+return Items.DIAMOND_BOOTS;
+
+diamond_chestplate
+return Items.DIAMOND_CHESTPLATE;
+
+diamond_helmet
+return Items.DIAMOND_HELMET;
+
+diamond_hoe
+return Items.DIAMOND_HOE;
+
+diamond_horse_armor
+return Items.DIAMOND_HORSE_ARMOR;
+
+diamond_leggings
+return Items.DIAMOND_LEGGINGS;
+
+diamond_ore
+return Items.DIAMOND_ORE;
+
+diamond_pickaxe
+return Items.DIAMOND_PICKAXE;
+
+diamond_shovel
+return Items.DIAMOND_SHOVEL;
+
+diamond_sword
+return Items.DIAMOND_SWORD;
+
+diorite
+return Items.DIORITE;
+
+diorite_slab
+return Items.DIORITE_SLAB;
+
+diorite_stairs
+return Items.DIORITE_STAIRS;
+
+diorite_wall
+return Items.DIORITE_WALL;
+
+dirt
+return Items.DIRT;
+
+dispenser
+return Items.DISPENSER;
+
+dolphin_spawn_egg
+return Items.DOLPHIN_SPAWN_EGG;
+
+donkey_spawn_egg
+return Items.DONKEY_SPAWN_EGG;
+
+dragon_breath
+return Items.DRAGON_BREATH;
+
+dragon_egg
+return Items.DRAGON_EGG;
+
+dragon_head
+return Items.DRAGON_HEAD;
+
+dried_kelp
+return Items.DRIED_KELP;
+
+dried_kelp_block
+return Items.DRIED_KELP_BLOCK;
+
+dropper
+return Items.DROPPER;
+
+drowned_spawn_egg
+return Items.DROWNED_SPAWN_EGG;
+
+egg
+return Items.EGG;
+
+elder_guardian_spawn_egg
+return Items.ELDER_GUARDIAN_SPAWN_EGG;
+
+elytra
+return Items.ELYTRA;
+
+emerald
+return Items.EMERALD;
+
+emerald_block
+return Items.EMERALD_BLOCK;
+
+emerald_ore
+return Items.EMERALD_ORE;
+
+enchanted_book
+return Items.ENCHANTED_BOOK;
+
+enchanted_golden_apple
+return Items.ENCHANTED_GOLDEN_APPLE;
+
+enchanting_table
+return Items.ENCHANTING_TABLE;
+
+end_crystal
+return Items.END_CRYSTAL;
+
+end_portal_frame
+return Items.END_PORTAL_FRAME;
+
+end_rod
+return Items.END_ROD;
+
+end_stone
+return Items.END_STONE;
+
+end_stone_brick_slab
+return Items.END_STONE_BRICK_SLAB;
+
+end_stone_brick_stairs
+return Items.END_STONE_BRICK_STAIRS;
+
+end_stone_brick_wall
+return Items.END_STONE_BRICK_WALL;
+
+end_stone_bricks
+return Items.END_STONE_BRICKS;
+
+ender_chest
+return Items.ENDER_CHEST;
+
+ender_eye
+return Items.ENDER_EYE;
+
+ender_pearl
+return Items.ENDER_PEARL;
+
+enderman_spawn_egg
+return Items.ENDERMAN_SPAWN_EGG;
+
+endermite_spawn_egg
+return Items.ENDERMITE_SPAWN_EGG;
+
+evoker_spawn_egg
+return Items.EVOKER_SPAWN_EGG;
+
+experience_bottle
+return Items.EXPERIENCE_BOTTLE;
+
+farmland
+return Items.FARMLAND;
+
+feather
+return Items.FEATHER;
+
+fermented_spider_eye
+return Items.FERMENTED_SPIDER_EYE;
+
+fern
+return Items.FERN;
+
+filled_map
+return Items.FILLED_MAP;
+
+fire_charge
+return Items.FIRE_CHARGE;
+
+fire_coral
+return Items.FIRE_CORAL;
+
+fire_coral_block
+return Items.FIRE_CORAL_BLOCK;
+
+fire_coral_fan
+return Items.FIRE_CORAL_FAN;
+
+firework_rocket
+return Items.FIREWORK_ROCKET;
+
+firework_star
+return Items.FIREWORK_STAR;
+
+fishing_rod
+return Items.FISHING_ROD;
+
+fletching_table
+return Items.FLETCHING_TABLE;
+
+flint
+return Items.FLINT;
+
+flint_and_steel
+return Items.FLINT_AND_STEEL;
+
+flower_banner_pattern
+return Items.FLOWER_BANNER_PATTERN;
+
+flower_pot
+return Items.FLOWER_POT;
+
+fox_spawn_egg
+return Items.FOX_SPAWN_EGG;
+
+furnace
+return Items.FURNACE;
+
+furnace_minecart
+return Items.FURNACE_MINECART;
+
+ghast_spawn_egg
+return Items.GHAST_SPAWN_EGG;
+
+ghast_tear
+return Items.GHAST_TEAR;
+
+gilded_blackstone
+return Items.GILDED_BLACKSTONE;
+
+glass
+return Items.GLASS;
+
+glass_bottle
+return Items.GLASS_BOTTLE;
+
+glass_pane
+return Items.GLASS_PANE;
+
+glistering_melon_slice
+return Items.GLISTERING_MELON_SLICE;
+
+globe_banner_pattern
+return Items.GLOBE_BANNER_PATTERN;
+
+glowstone
+return Items.GLOWSTONE;
+
+glowstone_dust
+return Items.GLOWSTONE_DUST;
+
+gold_block
+return Items.GOLD_BLOCK;
+
+gold_ingot
+return Items.GOLD_INGOT;
+
+gold_nugget
+return Items.GOLD_NUGGET;
+
+gold_ore
+return Items.GOLD_ORE;
+
+golden_apple
+return Items.GOLDEN_APPLE;
+
+golden_axe
+return Items.GOLDEN_AXE;
+
+golden_boots
+return Items.GOLDEN_BOOTS;
+
+golden_carrot
+return Items.GOLDEN_CARROT;
+
+golden_chestplate
+return Items.GOLDEN_CHESTPLATE;
+
+golden_helmet
+return Items.GOLDEN_HELMET;
+
+golden_hoe
+return Items.GOLDEN_HOE;
+
+golden_horse_armor
+return Items.GOLDEN_HORSE_ARMOR;
+
+golden_leggings
+return Items.GOLDEN_LEGGINGS;
+
+golden_pickaxe
+return Items.GOLDEN_PICKAXE;
+
+golden_shovel
+return Items.GOLDEN_SHOVEL;
+
+golden_sword
+return Items.GOLDEN_SWORD;
+
+granite
+return Items.GRANITE;
+
+granite_slab
+return Items.GRANITE_SLAB;
+
+granite_stairs
+return Items.GRANITE_STAIRS;
+
+granite_wall
+return Items.GRANITE_WALL;
+
+grass
+return Items.GRASS;
+
+grass_block
+return Items.GRASS_BLOCK;
+
+dirt_path
+return Items.DIRT_PATH;
+
+gravel
+return Items.GRAVEL;
+
+gray_banner
+return Items.GRAY_BANNER;
+
+gray_bed
+return Items.GRAY_BED;
+
+gray_carpet
+return Items.GRAY_CARPET;
+
+gray_concrete
+return Items.GRAY_CONCRETE;
+
+gray_concrete_powder
+return Items.GRAY_CONCRETE_POWDER;
+
+gray_dye
+return Items.GRAY_DYE;
+
+gray_glazed_terracotta
+return Items.GRAY_GLAZED_TERRACOTTA;
+
+gray_shulker_box
+return Items.GRAY_SHULKER_BOX;
+
+gray_stained_glass
+return Items.GRAY_STAINED_GLASS;
+
+gray_stained_glass_pane
+return Items.GRAY_STAINED_GLASS_PANE;
+
+gray_terracotta
+return Items.GRAY_TERRACOTTA;
+
+gray_wool
+return Items.GRAY_WOOL;
+
+green_banner
+return Items.GREEN_BANNER;
+
+green_bed
+return Items.GREEN_BED;
+
+green_carpet
+return Items.GREEN_CARPET;
+
+green_concrete
+return Items.GREEN_CONCRETE;
+
+green_concrete_powder
+return Items.GREEN_CONCRETE_POWDER;
+
+green_dye
+return Items.GREEN_DYE;
+
+green_glazed_terracotta
+return Items.GREEN_GLAZED_TERRACOTTA;
+
+green_shulker_box
+return Items.GREEN_SHULKER_BOX;
+
+green_stained_glass
+return Items.GREEN_STAINED_GLASS;
+
+green_stained_glass_pane
+return Items.GREEN_STAINED_GLASS_PANE;
+
+green_terracotta
+return Items.GREEN_TERRACOTTA;
+
+green_wool
+return Items.GREEN_WOOL;
+
+grindstone
+return Items.GRINDSTONE;
+
+guardian_spawn_egg
+return Items.GUARDIAN_SPAWN_EGG;
+
+gunpowder
+return Items.GUNPOWDER;
+
+hay_block
+return Items.HAY_BLOCK;
+
+heart_of_the_sea
+return Items.HEART_OF_THE_SEA;
+
+heavy_weighted_pressure_plate
+return Items.HEAVY_WEIGHTED_PRESSURE_PLATE;
+
+hoglin_spawn_egg
+return Items.HOGLIN_SPAWN_EGG;
+
+honey_block
+return Items.HONEY_BLOCK;
+
+honey_bottle
+return Items.HONEY_BOTTLE;
+
+honeycomb
+return Items.HONEYCOMB;
+
+honeycomb_block
+return Items.HONEYCOMB_BLOCK;
+
+hopper
+return Items.HOPPER;
+
+hopper_minecart
+return Items.HOPPER_MINECART;
+
+horn_coral
+return Items.HORN_CORAL;
+
+horn_coral_block
+return Items.HORN_CORAL_BLOCK;
+
+horn_coral_fan
+return Items.HORN_CORAL_FAN;
+
+horse_spawn_egg
+return Items.HORSE_SPAWN_EGG;
+
+husk_spawn_egg
+return Items.HUSK_SPAWN_EGG;
+
+ice
+return Items.ICE;
+
+infested_chiseled_stone_bricks
+return Items.INFESTED_CHISELED_STONE_BRICKS;
+
+infested_cobblestone
+return Items.INFESTED_COBBLESTONE;
+
+infested_cracked_stone_bricks
+return Items.INFESTED_CRACKED_STONE_BRICKS;
+
+infested_mossy_stone_bricks
+return Items.INFESTED_MOSSY_STONE_BRICKS;
+
+infested_stone
+return Items.INFESTED_STONE;
+
+infested_stone_bricks
+return Items.INFESTED_STONE_BRICKS;
+
+ink_sac
+return Items.INK_SAC;
+
+iron_axe
+return Items.IRON_AXE;
+
+iron_bars
+return Items.IRON_BARS;
+
+iron_block
+return Items.IRON_BLOCK;
+
+iron_boots
+return Items.IRON_BOOTS;
+
+iron_chestplate
+return Items.IRON_CHESTPLATE;
+
+iron_door
+return Items.IRON_DOOR;
+
+iron_golem_spawn_egg
+return Items.IRON_GOLEM_SPAWN_EGG;
+
+iron_helmet
+return Items.IRON_HELMET;
+
+iron_hoe
+return Items.IRON_HOE;
+
+iron_horse_armor
+return Items.IRON_HORSE_ARMOR;
+
+iron_ingot
+return Items.IRON_INGOT;
+
+iron_leggings
+return Items.IRON_LEGGINGS;
+
+iron_nugget
+return Items.IRON_NUGGET;
+
+iron_ore
+return Items.IRON_ORE;
+
+iron_pickaxe
+return Items.IRON_PICKAXE;
+
+iron_shovel
+return Items.IRON_SHOVEL;
+
+iron_sword
+return Items.IRON_SWORD;
+
+iron_trapdoor
+return Items.IRON_TRAPDOOR;
+
+item_frame
+return Items.ITEM_FRAME;
+
+jack_o_lantern
+return Items.JACK_O_LANTERN;
+
+jigsaw
+return Items.JIGSAW;
+
+jukebox
+return Items.JUKEBOX;
+
+jungle_boat
+return Items.JUNGLE_BOAT;
+
+jungle_button
+return Items.JUNGLE_BUTTON;
+
+jungle_door
+return Items.JUNGLE_DOOR;
+
+jungle_fence
+return Items.JUNGLE_FENCE;
+
+jungle_fence_gate
+return Items.JUNGLE_FENCE_GATE;
+
+jungle_leaves
+return Items.JUNGLE_LEAVES;
+
+jungle_log
+return Items.JUNGLE_LOG;
+
+jungle_planks
+return Items.JUNGLE_PLANKS;
+
+jungle_pressure_plate
+return Items.JUNGLE_PRESSURE_PLATE;
+
+jungle_sapling
+return Items.JUNGLE_SAPLING;
+
+jungle_sign
+return Items.JUNGLE_SIGN;
+
+jungle_slab
+return Items.JUNGLE_SLAB;
+
+jungle_stairs
+return Items.JUNGLE_STAIRS;
+
+jungle_trapdoor
+return Items.JUNGLE_TRAPDOOR;
+
+jungle_wood
+return Items.JUNGLE_WOOD;
+
+kelp
+return Items.KELP;
+
+knowledge_book
+return Items.KNOWLEDGE_BOOK;
+
+ladder
+return Items.LADDER;
+
+lantern
+return Items.LANTERN;
+
+lapis_block
+return Items.LAPIS_BLOCK;
+
+lapis_lazuli
+return Items.LAPIS_LAZULI;
+
+lapis_ore
+return Items.LAPIS_ORE;
+
+large_fern
+return Items.LARGE_FERN;
+
+lava_bucket
+return Items.LAVA_BUCKET;
+
+lead
+return Items.LEAD;
+
+leather
+return Items.LEATHER;
+
+leather_boots
+return Items.LEATHER_BOOTS;
+
+leather_chestplate
+return Items.LEATHER_CHESTPLATE;
+
+leather_helmet
+return Items.LEATHER_HELMET;
+
+leather_horse_armor
+return Items.LEATHER_HORSE_ARMOR;
+
+leather_leggings
+return Items.LEATHER_LEGGINGS;
+
+lectern
+return Items.LECTERN;
+
+lever
+return Items.LEVER;
+
+light_blue_banner
+return Items.LIGHT_BLUE_BANNER;
+
+light_blue_bed
+return Items.LIGHT_BLUE_BED;
+
+light_blue_carpet
+return Items.LIGHT_BLUE_CARPET;
+
+light_blue_concrete
+return Items.LIGHT_BLUE_CONCRETE;
+
+light_blue_concrete_powder
+return Items.LIGHT_BLUE_CONCRETE_POWDER;
+
+light_blue_dye
+return Items.LIGHT_BLUE_DYE;
+
+light_blue_glazed_terracotta
+return Items.LIGHT_BLUE_GLAZED_TERRACOTTA;
+
+light_blue_shulker_box
+return Items.LIGHT_BLUE_SHULKER_BOX;
+
+light_blue_stained_glass
+return Items.LIGHT_BLUE_STAINED_GLASS;
+
+light_blue_stained_glass_pane
+return Items.LIGHT_BLUE_STAINED_GLASS_PANE;
+
+light_blue_terracotta
+return Items.LIGHT_BLUE_TERRACOTTA;
+
+light_blue_wool
+return Items.LIGHT_BLUE_WOOL;
+
+light_gray_banner
+return Items.LIGHT_GRAY_BANNER;
+
+light_gray_bed
+return Items.LIGHT_GRAY_BED;
+
+light_gray_carpet
+return Items.LIGHT_GRAY_CARPET;
+
+light_gray_concrete
+return Items.LIGHT_GRAY_CONCRETE;
+
+light_gray_concrete_powder
+return Items.LIGHT_GRAY_CONCRETE_POWDER;
+
+light_gray_dye
+return Items.LIGHT_GRAY_DYE;
+
+light_gray_glazed_terracotta
+return Items.LIGHT_GRAY_GLAZED_TERRACOTTA;
+
+light_gray_shulker_box
+return Items.LIGHT_GRAY_SHULKER_BOX;
+
+light_gray_stained_glass
+return Items.LIGHT_GRAY_STAINED_GLASS;
+
+light_gray_stained_glass_pane
+return Items.LIGHT_GRAY_STAINED_GLASS_PANE;
+
+light_gray_terracotta
+return Items.LIGHT_GRAY_TERRACOTTA;
+
+light_gray_wool
+return Items.LIGHT_GRAY_WOOL;
+
+light_weighted_pressure_plate
+return Items.LIGHT_WEIGHTED_PRESSURE_PLATE;
+
+lilac
+return Items.LILAC;
+
+lily_of_the_valley
+return Items.LILY_OF_THE_VALLEY;
+
+lily_pad
+return Items.LILY_PAD;
+
+lime_banner
+return Items.LIME_BANNER;
+
+lime_bed
+return Items.LIME_BED;
+
+lime_carpet
+return Items.LIME_CARPET;
+
+lime_concrete
+return Items.LIME_CONCRETE;
+
+lime_concrete_powder
+return Items.LIME_CONCRETE_POWDER;
+
+lime_dye
+return Items.LIME_DYE;
+
+lime_glazed_terracotta
+return Items.LIME_GLAZED_TERRACOTTA;
+
+lime_shulker_box
+return Items.LIME_SHULKER_BOX;
+
+lime_stained_glass
+return Items.LIME_STAINED_GLASS;
+
+lime_stained_glass_pane
+return Items.LIME_STAINED_GLASS_PANE;
+
+lime_terracotta
+return Items.LIME_TERRACOTTA;
+
+lime_wool
+return Items.LIME_WOOL;
+
+lingering_potion
+return Items.LINGERING_POTION;
+
+llama_spawn_egg
+return Items.LLAMA_SPAWN_EGG;
+
+lodestone
+return Items.LODESTONE;
+
+loom
+return Items.LOOM;
+
+magenta_banner
+return Items.MAGENTA_BANNER;
+
+magenta_bed
+return Items.MAGENTA_BED;
+
+magenta_carpet
+return Items.MAGENTA_CARPET;
+
+magenta_concrete
+return Items.MAGENTA_CONCRETE;
+
+magenta_concrete_powder
+return Items.MAGENTA_CONCRETE_POWDER;
+
+magenta_dye
+return Items.MAGENTA_DYE;
+
+magenta_glazed_terracotta
+return Items.MAGENTA_GLAZED_TERRACOTTA;
+
+magenta_shulker_box
+return Items.MAGENTA_SHULKER_BOX;
+
+magenta_stained_glass
+return Items.MAGENTA_STAINED_GLASS;
+
+magenta_stained_glass_pane
+return Items.MAGENTA_STAINED_GLASS_PANE;
+
+magenta_terracotta
+return Items.MAGENTA_TERRACOTTA;
+
+magenta_wool
+return Items.MAGENTA_WOOL;
+
+magma_block
+return Items.MAGMA_BLOCK;
+
+magma_cream
+return Items.MAGMA_CREAM;
+
+magma_cube_spawn_egg
+return Items.MAGMA_CUBE_SPAWN_EGG;
+
+map
+return Items.MAP;
+
+melon
+return Items.MELON;
+
+melon_seeds
+return Items.MELON_SEEDS;
+
+melon_slice
+return Items.MELON_SLICE;
+
+milk_bucket
+return Items.MILK_BUCKET;
+
+minecart
+return Items.MINECART;
+
+mojang_banner_pattern
+return Items.MOJANG_BANNER_PATTERN;
+
+mooshroom_spawn_egg
+return Items.MOOSHROOM_SPAWN_EGG;
+
+mossy_cobblestone
+return Items.MOSSY_COBBLESTONE;
+
+mossy_cobblestone_slab
+return Items.MOSSY_COBBLESTONE_SLAB;
+
+mossy_cobblestone_stairs
+return Items.MOSSY_COBBLESTONE_STAIRS;
+
+mossy_cobblestone_wall
+return Items.MOSSY_COBBLESTONE_WALL;
+
+mossy_stone_brick_slab
+return Items.MOSSY_STONE_BRICK_SLAB;
+
+mossy_stone_brick_stairs
+return Items.MOSSY_STONE_BRICK_STAIRS;
+
+mossy_stone_brick_wall
+return Items.MOSSY_STONE_BRICK_WALL;
+
+mossy_stone_bricks
+return Items.MOSSY_STONE_BRICKS;
+
+mule_spawn_egg
+return Items.MULE_SPAWN_EGG;
+
+mushroom_stem
+return Items.MUSHROOM_STEM;
+
+mushroom_stew
+return Items.MUSHROOM_STEW;
+
+music_disc_11
+return Items.MUSIC_DISC_11;
+
+music_disc_13
+return Items.MUSIC_DISC_13;
+
+music_disc_blocks
+return Items.MUSIC_DISC_BLOCKS;
+
+music_disc_cat
+return Items.MUSIC_DISC_CAT;
+
+music_disc_chirp
+return Items.MUSIC_DISC_CHIRP;
+
+music_disc_far
+return Items.MUSIC_DISC_FAR;
+
+music_disc_mall
+return Items.MUSIC_DISC_MALL;
+
+music_disc_mellohi
+return Items.MUSIC_DISC_MELLOHI;
+
+music_disc_pigstep
+return Items.MUSIC_DISC_PIGSTEP;
+
+music_disc_stal
+return Items.MUSIC_DISC_STAL;
+
+music_disc_strad
+return Items.MUSIC_DISC_STRAD;
+
+music_disc_wait
+return Items.MUSIC_DISC_WAIT;
+
+music_disc_ward
+return Items.MUSIC_DISC_WARD;
+
+mutton
+return Items.MUTTON;
+
+mycelium
+return Items.MYCELIUM;
+
+name_tag
+return Items.NAME_TAG;
+
+nautilus_shell
+return Items.NAUTILUS_SHELL;
+
+nether_brick
+return Items.NETHER_BRICK;
+
+nether_brick_fence
+return Items.NETHER_BRICK_FENCE;
+
+nether_brick_slab
+return Items.NETHER_BRICK_SLAB;
+
+nether_brick_stairs
+return Items.NETHER_BRICK_STAIRS;
+
+nether_brick_wall
+return Items.NETHER_BRICK_WALL;
+
+nether_bricks
+return Items.NETHER_BRICKS;
+
+nether_gold_ore
+return Items.NETHER_GOLD_ORE;
+
+nether_quartz_ore
+return Items.NETHER_QUARTZ_ORE;
+
+nether_sprouts
+return Items.NETHER_SPROUTS;
+
+nether_star
+return Items.NETHER_STAR;
+
+nether_wart
+return Items.NETHER_WART;
+
+nether_wart_block
+return Items.NETHER_WART_BLOCK;
+
+netherite_axe
+return Items.NETHERITE_AXE;
+
+netherite_block
+return Items.NETHERITE_BLOCK;
+
+netherite_boots
+return Items.NETHERITE_BOOTS;
+
+netherite_chestplate
+return Items.NETHERITE_CHESTPLATE;
+
+netherite_helmet
+return Items.NETHERITE_HELMET;
+
+netherite_hoe
+return Items.NETHERITE_HOE;
+
+netherite_ingot
+return Items.NETHERITE_INGOT;
+
+netherite_leggings
+return Items.NETHERITE_LEGGINGS;
+
+netherite_pickaxe
+return Items.NETHERITE_PICKAXE;
+
+netherite_scrap
+return Items.NETHERITE_SCRAP;
+
+netherite_shovel
+return Items.NETHERITE_SHOVEL;
+
+netherite_sword
+return Items.NETHERITE_SWORD;
+
+netherrack
+return Items.NETHERRACK;
+
+note_block
+return Items.NOTE_BLOCK;
+
+oak_boat
+return Items.OAK_BOAT;
+
+oak_button
+return Items.OAK_BUTTON;
+
+oak_door
+return Items.OAK_DOOR;
+
+oak_fence
+return Items.OAK_FENCE;
+
+oak_fence_gate
+return Items.OAK_FENCE_GATE;
+
+oak_leaves
+return Items.OAK_LEAVES;
+
+oak_log
+return Items.OAK_LOG;
+
+oak_planks
+return Items.OAK_PLANKS;
+
+oak_pressure_plate
+return Items.OAK_PRESSURE_PLATE;
+
+oak_sapling
+return Items.OAK_SAPLING;
+
+oak_sign
+return Items.OAK_SIGN;
+
+oak_slab
+return Items.OAK_SLAB;
+
+oak_stairs
+return Items.OAK_STAIRS;
+
+oak_trapdoor
+return Items.OAK_TRAPDOOR;
+
+oak_wood
+return Items.OAK_WOOD;
+
+observer
+return Items.OBSERVER;
+
+obsidian
+return Items.OBSIDIAN;
+
+ocelot_spawn_egg
+return Items.OCELOT_SPAWN_EGG;
+
+orange_banner
+return Items.ORANGE_BANNER;
+
+orange_bed
+return Items.ORANGE_BED;
+
+orange_carpet
+return Items.ORANGE_CARPET;
+
+orange_concrete
+return Items.ORANGE_CONCRETE;
+
+orange_concrete_powder
+return Items.ORANGE_CONCRETE_POWDER;
+
+orange_dye
+return Items.ORANGE_DYE;
+
+orange_glazed_terracotta
+return Items.ORANGE_GLAZED_TERRACOTTA;
+
+orange_shulker_box
+return Items.ORANGE_SHULKER_BOX;
+
+orange_stained_glass
+return Items.ORANGE_STAINED_GLASS;
+
+orange_stained_glass_pane
+return Items.ORANGE_STAINED_GLASS_PANE;
+
+orange_terracotta
+return Items.ORANGE_TERRACOTTA;
+
+orange_tulip
+return Items.ORANGE_TULIP;
+
+orange_wool
+return Items.ORANGE_WOOL;
+
+oxeye_daisy
+return Items.OXEYE_DAISY;
+
+packed_ice
+return Items.PACKED_ICE;
+
+painting
+return Items.PAINTING;
+
+panda_spawn_egg
+return Items.PANDA_SPAWN_EGG;
+
+paper
+return Items.PAPER;
+
+parrot_spawn_egg
+return Items.PARROT_SPAWN_EGG;
+
+peony
+return Items.PEONY;
+
+petrified_oak_slab
+return Items.PETRIFIED_OAK_SLAB;
+
+phantom_membrane
+return Items.PHANTOM_MEMBRANE;
+
+phantom_spawn_egg
+return Items.PHANTOM_SPAWN_EGG;
+
+pig_spawn_egg
+return Items.PIG_SPAWN_EGG;
+
+piglin_banner_pattern
+return Items.PIGLIN_BANNER_PATTERN;
+
+piglin_brute_spawn_egg
+return Items.PIGLIN_BRUTE_SPAWN_EGG;
+
+piglin_spawn_egg
+return Items.PIGLIN_SPAWN_EGG;
+
+pillager_spawn_egg
+return Items.PILLAGER_SPAWN_EGG;
+
+pink_banner
+return Items.PINK_BANNER;
+
+pink_bed
+return Items.PINK_BED;
+
+pink_carpet
+return Items.PINK_CARPET;
+
+pink_concrete
+return Items.PINK_CONCRETE;
+
+pink_concrete_powder
+return Items.PINK_CONCRETE_POWDER;
+
+pink_dye
+return Items.PINK_DYE;
+
+pink_glazed_terracotta
+return Items.PINK_GLAZED_TERRACOTTA;
+
+pink_shulker_box
+return Items.PINK_SHULKER_BOX;
+
+pink_stained_glass
+return Items.PINK_STAINED_GLASS;
+
+pink_stained_glass_pane
+return Items.PINK_STAINED_GLASS_PANE;
+
+pink_terracotta
+return Items.PINK_TERRACOTTA;
+
+pink_tulip
+return Items.PINK_TULIP;
+
+pink_wool
+return Items.PINK_WOOL;
+
+piston
+return Items.PISTON;
+
+player_head
+return Items.PLAYER_HEAD;
+
+podzol
+return Items.PODZOL;
+
+poisonous_potato
+return Items.POISONOUS_POTATO;
+
+polar_bear_spawn_egg
+return Items.POLAR_BEAR_SPAWN_EGG;
+
+polished_andesite
+return Items.POLISHED_ANDESITE;
+
+polished_andesite_slab
+return Items.POLISHED_ANDESITE_SLAB;
+
+polished_andesite_stairs
+return Items.POLISHED_ANDESITE_STAIRS;
+
+polished_basalt
+return Items.POLISHED_BASALT;
+
+polished_blackstone
+return Items.POLISHED_BLACKSTONE;
+
+polished_blackstone_brick_slab
+return Items.POLISHED_BLACKSTONE_BRICK_SLAB;
+
+polished_blackstone_brick_stairs
+return Items.POLISHED_BLACKSTONE_BRICK_STAIRS;
+
+polished_blackstone_brick_wall
+return Items.POLISHED_BLACKSTONE_BRICK_WALL;
+
+polished_blackstone_bricks
+return Items.POLISHED_BLACKSTONE_BRICKS;
+
+polished_blackstone_button
+return Items.POLISHED_BLACKSTONE_BUTTON;
+
+polished_blackstone_pressure_plate
+return Items.POLISHED_BLACKSTONE_PRESSURE_PLATE;
+
+polished_blackstone_slab
+return Items.POLISHED_BLACKSTONE_SLAB;
+
+polished_blackstone_stairs
+return Items.POLISHED_BLACKSTONE_STAIRS;
+
+polished_blackstone_wall
+return Items.POLISHED_BLACKSTONE_WALL;
+
+polished_diorite
+return Items.POLISHED_DIORITE;
+
+polished_diorite_slab
+return Items.POLISHED_DIORITE_SLAB;
+
+polished_diorite_stairs
+return Items.POLISHED_DIORITE_STAIRS;
+
+polished_granite
+return Items.POLISHED_GRANITE;
+
+polished_granite_slab
+return Items.POLISHED_GRANITE_SLAB;
+
+polished_granite_stairs
+return Items.POLISHED_GRANITE_STAIRS;
+
+popped_chorus_fruit
+return Items.POPPED_CHORUS_FRUIT;
+
+poppy
+return Items.POPPY;
+
+porkchop
+return Items.PORKCHOP;
+
+potato
+return Items.POTATO;
+
+potion
+return Items.POTION;
+
+powered_rail
+return Items.POWERED_RAIL;
+
+prismarine
+return Items.PRISMARINE;
+
+prismarine_brick_slab
+return Items.PRISMARINE_BRICK_SLAB;
+
+prismarine_brick_stairs
+return Items.PRISMARINE_BRICK_STAIRS;
+
+prismarine_bricks
+return Items.PRISMARINE_BRICKS;
+
+prismarine_crystals
+return Items.PRISMARINE_CRYSTALS;
+
+prismarine_shard
+return Items.PRISMARINE_SHARD;
+
+prismarine_slab
+return Items.PRISMARINE_SLAB;
+
+prismarine_stairs
+return Items.PRISMARINE_STAIRS;
+
+prismarine_wall
+return Items.PRISMARINE_WALL;
+
+pufferfish
+return Items.PUFFERFISH;
+
+pufferfish_bucket
+return Items.PUFFERFISH_BUCKET;
+
+pufferfish_spawn_egg
+return Items.PUFFERFISH_SPAWN_EGG;
+
+pumpkin
+return Items.PUMPKIN;
+
+pumpkin_pie
+return Items.PUMPKIN_PIE;
+
+pumpkin_seeds
+return Items.PUMPKIN_SEEDS;
+
+purple_banner
+return Items.PURPLE_BANNER;
+
+purple_bed
+return Items.PURPLE_BED;
+
+purple_carpet
+return Items.PURPLE_CARPET;
+
+purple_concrete
+return Items.PURPLE_CONCRETE;
+
+purple_concrete_powder
+return Items.PURPLE_CONCRETE_POWDER;
+
+purple_dye
+return Items.PURPLE_DYE;
+
+purple_glazed_terracotta
+return Items.PURPLE_GLAZED_TERRACOTTA;
+
+purple_shulker_box
+return Items.PURPLE_SHULKER_BOX;
+
+purple_stained_glass
+return Items.PURPLE_STAINED_GLASS;
+
+purple_stained_glass_pane
+return Items.PURPLE_STAINED_GLASS_PANE;
+
+purple_terracotta
+return Items.PURPLE_TERRACOTTA;
+
+purple_wool
+return Items.PURPLE_WOOL;
+
+purpur_block
+return Items.PURPUR_BLOCK;
+
+purpur_pillar
+return Items.PURPUR_PILLAR;
+
+purpur_slab
+return Items.PURPUR_SLAB;
+
+purpur_stairs
+return Items.PURPUR_STAIRS;
+
+quartz
+return Items.QUARTZ;
+
+quartz_block
+return Items.QUARTZ_BLOCK;
+
+quartz_bricks
+return Items.QUARTZ_BRICKS;
+
+quartz_pillar
+return Items.QUARTZ_PILLAR;
+
+quartz_slab
+return Items.QUARTZ_SLAB;
+
+quartz_stairs
+return Items.QUARTZ_STAIRS;
+
+rabbit
+return Items.RABBIT;
+
+rabbit_foot
+return Items.RABBIT_FOOT;
+
+rabbit_hide
+return Items.RABBIT_HIDE;
+
+rabbit_spawn_egg
+return Items.RABBIT_SPAWN_EGG;
+
+rabbit_stew
+return Items.RABBIT_STEW;
+
+rail
+return Items.RAIL;
+
+ravager_spawn_egg
+return Items.RAVAGER_SPAWN_EGG;
+
+red_banner
+return Items.RED_BANNER;
+
+red_bed
+return Items.RED_BED;
+
+red_carpet
+return Items.RED_CARPET;
+
+red_concrete
+return Items.RED_CONCRETE;
+
+red_concrete_powder
+return Items.RED_CONCRETE_POWDER;
+
+red_dye
+return Items.RED_DYE;
+
+red_glazed_terracotta
+return Items.RED_GLAZED_TERRACOTTA;
+
+red_mushroom
+return Items.RED_MUSHROOM;
+
+red_mushroom_block
+return Items.RED_MUSHROOM_BLOCK;
+
+red_nether_brick_slab
+return Items.RED_NETHER_BRICK_SLAB;
+
+red_nether_brick_stairs
+return Items.RED_NETHER_BRICK_STAIRS;
+
+red_nether_brick_wall
+return Items.RED_NETHER_BRICK_WALL;
+
+red_nether_bricks
+return Items.RED_NETHER_BRICKS;
+
+red_sand
+return Items.RED_SAND;
+
+red_sandstone
+return Items.RED_SANDSTONE;
+
+red_sandstone_slab
+return Items.RED_SANDSTONE_SLAB;
+
+red_sandstone_stairs
+return Items.RED_SANDSTONE_STAIRS;
+
+red_sandstone_wall
+return Items.RED_SANDSTONE_WALL;
+
+red_shulker_box
+return Items.RED_SHULKER_BOX;
+
+red_stained_glass
+return Items.RED_STAINED_GLASS;
+
+red_stained_glass_pane
+return Items.RED_STAINED_GLASS_PANE;
+
+red_terracotta
+return Items.RED_TERRACOTTA;
+
+red_tulip
+return Items.RED_TULIP;
+
+red_wool
+return Items.RED_WOOL;
+
+redstone
+return Items.REDSTONE;
+
+redstone_block
+return Items.REDSTONE_BLOCK;
+
+redstone_lamp
+return Items.REDSTONE_LAMP;
+
+redstone_ore
+return Items.REDSTONE_ORE;
+
+redstone_torch
+return Items.REDSTONE_TORCH;
+
+repeater
+return Items.REPEATER;
+
+repeating_command_block
+return Items.REPEATING_COMMAND_BLOCK;
+
+respawn_anchor
+return Items.RESPAWN_ANCHOR;
+
+rose_bush
+return Items.ROSE_BUSH;
+
+rotten_flesh
+return Items.ROTTEN_FLESH;
+
+saddle
+return Items.SADDLE;
+
+salmon
+return Items.SALMON;
+
+salmon_bucket
+return Items.SALMON_BUCKET;
+
+salmon_spawn_egg
+return Items.SALMON_SPAWN_EGG;
+
+sand
+return Items.SAND;
+
+sandstone
+return Items.SANDSTONE;
+
+sandstone_slab
+return Items.SANDSTONE_SLAB;
+
+sandstone_stairs
+return Items.SANDSTONE_STAIRS;
+
+sandstone_wall
+return Items.SANDSTONE_WALL;
+
+scaffolding
+return Items.SCAFFOLDING;
+
+scute
+return Items.SCUTE;
+
+sea_lantern
+return Items.SEA_LANTERN;
+
+sea_pickle
+return Items.SEA_PICKLE;
+
+seagrass
+return Items.SEAGRASS;
+
+shears
+return Items.SHEARS;
+
+sheep_spawn_egg
+return Items.SHEEP_SPAWN_EGG;
+
+shield
+return Items.SHIELD;
+
+shroomlight
+return Items.SHROOMLIGHT;
+
+shulker_box
+return Items.SHULKER_BOX;
+
+shulker_shell
+return Items.SHULKER_SHELL;
+
+shulker_spawn_egg
+return Items.SHULKER_SPAWN_EGG;
+
+silverfish_spawn_egg
+return Items.SILVERFISH_SPAWN_EGG;
+
+skeleton_horse_spawn_egg
+return Items.SKELETON_HORSE_SPAWN_EGG;
+
+skeleton_skull
+return Items.SKELETON_SKULL;
+
+skeleton_spawn_egg
+return Items.SKELETON_SPAWN_EGG;
+
+skull_banner_pattern
+return Items.SKULL_BANNER_PATTERN;
+
+slime_ball
+return Items.SLIME_BALL;
+
+slime_block
+return Items.SLIME_BLOCK;
+
+slime_spawn_egg
+return Items.SLIME_SPAWN_EGG;
+
+smithing_table
+return Items.SMITHING_TABLE;
+
+smoker
+return Items.SMOKER;
+
+smooth_quartz
+return Items.SMOOTH_QUARTZ;
+
+smooth_quartz_slab
+return Items.SMOOTH_QUARTZ_SLAB;
+
+smooth_quartz_stairs
+return Items.SMOOTH_QUARTZ_STAIRS;
+
+smooth_red_sandstone
+return Items.SMOOTH_RED_SANDSTONE;
+
+smooth_red_sandstone_slab
+return Items.SMOOTH_RED_SANDSTONE_SLAB;
+
+smooth_red_sandstone_stairs
+return Items.SMOOTH_RED_SANDSTONE_STAIRS;
+
+smooth_sandstone
+return Items.SMOOTH_SANDSTONE;
+
+smooth_sandstone_slab
+return Items.SMOOTH_SANDSTONE_SLAB;
+
+smooth_sandstone_stairs
+return Items.SMOOTH_SANDSTONE_STAIRS;
+
+smooth_stone
+return Items.SMOOTH_STONE;
+
+smooth_stone_slab
+return Items.SMOOTH_STONE_SLAB;
+
+snow
+return Items.SNOW;
+
+snow_block
+return Items.SNOW_BLOCK;
+
+snowball
+return Items.SNOWBALL;
+
+soul_campfire
+return Items.SOUL_CAMPFIRE;
+
+soul_lantern
+return Items.SOUL_LANTERN;
+
+soul_sand
+return Items.SOUL_SAND;
+
+soul_soil
+return Items.SOUL_SOIL;
+
+soul_torch
+return Items.SOUL_TORCH;
+
+spawner
+return Items.SPAWNER;
+
+spectral_arrow
+return Items.SPECTRAL_ARROW;
+
+spider_eye
+return Items.SPIDER_EYE;
+
+spider_spawn_egg
+return Items.SPIDER_SPAWN_EGG;
+
+splash_potion
+return Items.SPLASH_POTION;
+
+sponge
+return Items.SPONGE;
+
+spruce_boat
+return Items.SPRUCE_BOAT;
+
+spruce_button
+return Items.SPRUCE_BUTTON;
+
+spruce_door
+return Items.SPRUCE_DOOR;
+
+spruce_fence
+return Items.SPRUCE_FENCE;
+
+spruce_fence_gate
+return Items.SPRUCE_FENCE_GATE;
+
+spruce_leaves
+return Items.SPRUCE_LEAVES;
+
+spruce_log
+return Items.SPRUCE_LOG;
+
+spruce_planks
+return Items.SPRUCE_PLANKS;
+
+spruce_pressure_plate
+return Items.SPRUCE_PRESSURE_PLATE;
+
+spruce_sapling
+return Items.SPRUCE_SAPLING;
+
+spruce_sign
+return Items.SPRUCE_SIGN;
+
+spruce_slab
+return Items.SPRUCE_SLAB;
+
+spruce_stairs
+return Items.SPRUCE_STAIRS;
+
+spruce_trapdoor
+return Items.SPRUCE_TRAPDOOR;
+
+spruce_wood
+return Items.SPRUCE_WOOD;
+
+spyglass
+return Items.SPYGLASS;
+
+squid_spawn_egg
+return Items.SQUID_SPAWN_EGG;
+
+stick
+return Items.STICK;
+
+sticky_piston
+return Items.STICKY_PISTON;
+
+stone
+return Items.STONE;
+
+stone_axe
+return Items.STONE_AXE;
+
+stone_brick_slab
+return Items.STONE_BRICK_SLAB;
+
+stone_brick_stairs
+return Items.STONE_BRICK_STAIRS;
+
+stone_brick_wall
+return Items.STONE_BRICK_WALL;
+
+stone_bricks
+return Items.STONE_BRICKS;
+
+stone_button
+return Items.STONE_BUTTON;
+
+stone_hoe
+return Items.STONE_HOE;
+
+stone_pickaxe
+return Items.STONE_PICKAXE;
+
+stone_pressure_plate
+return Items.STONE_PRESSURE_PLATE;
+
+stone_shovel
+return Items.STONE_SHOVEL;
+
+stone_slab
+return Items.STONE_SLAB;
+
+stone_stairs
+return Items.STONE_STAIRS;
+
+stone_sword
+return Items.STONE_SWORD;
+
+stonecutter
+return Items.STONECUTTER;
+
+stray_spawn_egg
+return Items.STRAY_SPAWN_EGG;
+
+strider_spawn_egg
+return Items.STRIDER_SPAWN_EGG;
+
+string
+return Items.STRING;
+
+stripped_acacia_log
+return Items.STRIPPED_ACACIA_LOG;
+
+stripped_acacia_wood
+return Items.STRIPPED_ACACIA_WOOD;
+
+stripped_birch_log
+return Items.STRIPPED_BIRCH_LOG;
+
+stripped_birch_wood
+return Items.STRIPPED_BIRCH_WOOD;
+
+stripped_crimson_hyphae
+return Items.STRIPPED_CRIMSON_HYPHAE;
+
+stripped_crimson_stem
+return Items.STRIPPED_CRIMSON_STEM;
+
+stripped_dark_oak_log
+return Items.STRIPPED_DARK_OAK_LOG;
+
+stripped_dark_oak_wood
+return Items.STRIPPED_DARK_OAK_WOOD;
+
+stripped_jungle_log
+return Items.STRIPPED_JUNGLE_LOG;
+
+stripped_jungle_wood
+return Items.STRIPPED_JUNGLE_WOOD;
+
+stripped_oak_log
+return Items.STRIPPED_OAK_LOG;
+
+stripped_oak_wood
+return Items.STRIPPED_OAK_WOOD;
+
+stripped_spruce_log
+return Items.STRIPPED_SPRUCE_LOG;
+
+stripped_spruce_wood
+return Items.STRIPPED_SPRUCE_WOOD;
+
+stripped_warped_hyphae
+return Items.STRIPPED_WARPED_HYPHAE;
+
+stripped_warped_stem
+return Items.STRIPPED_WARPED_STEM;
+
+structure_block
+return Items.STRUCTURE_BLOCK;
+
+structure_void
+return Items.STRUCTURE_VOID;
+
+sugar
+return Items.SUGAR;
+
+sugar_cane
+return Items.SUGAR_CANE;
+
+sunflower
+return Items.SUNFLOWER;
+
+suspicious_stew
+return Items.SUSPICIOUS_STEW;
+
+sweet_berries
+return Items.SWEET_BERRIES;
+
+tall_grass
+return Items.TALL_GRASS;
+
+target
+return Items.TARGET;
+
+terracotta
+return Items.TERRACOTTA;
+
+tipped_arrow
+return Items.TIPPED_ARROW;
+
+tnt
+return Items.TNT;
+
+tnt_minecart
+return Items.TNT_MINECART;
+
+torch
+return Items.TORCH;
+
+totem_of_undying
+return Items.TOTEM_OF_UNDYING;
+
+trader_llama_spawn_egg
+return Items.TRADER_LLAMA_SPAWN_EGG;
+
+trapped_chest
+return Items.TRAPPED_CHEST;
+
+trident
+return Items.TRIDENT;
+
+tripwire_hook
+return Items.TRIPWIRE_HOOK;
+
+tropical_fish
+return Items.TROPICAL_FISH;
+
+tropical_fish_bucket
+return Items.TROPICAL_FISH_BUCKET;
+
+tropical_fish_spawn_egg
+return Items.TROPICAL_FISH_SPAWN_EGG;
+
+tube_coral
+return Items.TUBE_CORAL;
+
+tube_coral_block
+return Items.TUBE_CORAL_BLOCK;
+
+tube_coral_fan
+return Items.TUBE_CORAL_FAN;
+
+turtle_egg
+return Items.TURTLE_EGG;
+
+turtle_helmet
+return Items.TURTLE_HELMET;
+
+turtle_spawn_egg
+return Items.TURTLE_SPAWN_EGG;
+
+twisting_vines
+return Items.TWISTING_VINES;
+
+vex_spawn_egg
+return Items.VEX_SPAWN_EGG;
+
+villager_spawn_egg
+return Items.VILLAGER_SPAWN_EGG;
+
+vindicator_spawn_egg
+return Items.VINDICATOR_SPAWN_EGG;
+
+vine
+return Items.VINE;
+
+wandering_trader_spawn_egg
+return Items.WANDERING_TRADER_SPAWN_EGG;
+
+warped_button
+return Items.WARPED_BUTTON;
+
+warped_door
+return Items.WARPED_DOOR;
+
+warped_fence
+return Items.WARPED_FENCE;
+
+warped_fence_gate
+return Items.WARPED_FENCE_GATE;
+
+warped_fungus
+return Items.WARPED_FUNGUS;
+
+warped_fungus_on_a_stick
+return Items.WARPED_FUNGUS_ON_A_STICK;
+
+warped_hyphae
+return Items.WARPED_HYPHAE;
+
+warped_nylium
+return Items.WARPED_NYLIUM;
+
+warped_planks
+return Items.WARPED_PLANKS;
+
+warped_pressure_plate
+return Items.WARPED_PRESSURE_PLATE;
+
+warped_roots
+return Items.WARPED_ROOTS;
+
+warped_sign
+return Items.WARPED_SIGN;
+
+warped_slab
+return Items.WARPED_SLAB;
+
+warped_stairs
+return Items.WARPED_STAIRS;
+
+warped_stem
+return Items.WARPED_STEM;
+
+warped_trapdoor
+return Items.WARPED_TRAPDOOR;
+
+warped_wart_block
+return Items.WARPED_WART_BLOCK;
+
+water_bucket
+return Items.WATER_BUCKET;
+
+weeping_vines
+return Items.WEEPING_VINES;
+
+wet_sponge
+return Items.WET_SPONGE;
+
+wheat
+return Items.WHEAT;
+
+wheat_seeds
+return Items.WHEAT_SEEDS;
+
+white_banner
+return Items.WHITE_BANNER;
+
+white_bed
+return Items.WHITE_BED;
+
+white_carpet
+return Items.WHITE_CARPET;
+
+white_concrete
+return Items.WHITE_CONCRETE;
+
+white_concrete_powder
+return Items.WHITE_CONCRETE_POWDER;
+
+white_dye
+return Items.WHITE_DYE;
+
+white_glazed_terracotta
+return Items.WHITE_GLAZED_TERRACOTTA;
+
+white_shulker_box
+return Items.WHITE_SHULKER_BOX;
+
+white_stained_glass
+return Items.WHITE_STAINED_GLASS;
+
+white_stained_glass_pane
+return Items.WHITE_STAINED_GLASS_PANE;
+
+white_terracotta
+return Items.WHITE_TERRACOTTA;
+
+white_tulip
+return Items.WHITE_TULIP;
+
+white_wool
+return Items.WHITE_WOOL;
+
+witch_spawn_egg
+return Items.WITCH_SPAWN_EGG;
+
+wither_rose
+return Items.WITHER_ROSE;
+
+wither_skeleton_skull
+return Items.WITHER_SKELETON_SKULL;
+
+wither_skeleton_spawn_egg
+return Items.WITHER_SKELETON_SPAWN_EGG;
+
+wolf_spawn_egg
+return Items.WOLF_SPAWN_EGG;
+
+wooden_axe
+return Items.WOODEN_AXE;
+
+wooden_hoe
+return Items.WOODEN_HOE;
+
+wooden_pickaxe
+return Items.WOODEN_PICKAXE;
+
+wooden_shovel
+return Items.WOODEN_SHOVEL;
+
+wooden_sword
+return Items.WOODEN_SWORD;
+
+writable_book
+return Items.WRITABLE_BOOK;
+
+written_book
+return Items.WRITTEN_BOOK;
+
+yellow_banner
+return Items.YELLOW_BANNER;
+
+yellow_bed
+return Items.YELLOW_BED;
+
+yellow_carpet
+return Items.YELLOW_CARPET;
+
+yellow_concrete
+return Items.YELLOW_CONCRETE;
+
+yellow_concrete_powder
+return Items.YELLOW_CONCRETE_POWDER;
+
+yellow_dye
+return Items.YELLOW_DYE;
+
+yellow_glazed_terracotta
+return Items.YELLOW_GLAZED_TERRACOTTA;
+
+yellow_shulker_box
+return Items.YELLOW_SHULKER_BOX;
+
+yellow_stained_glass
+return Items.YELLOW_STAINED_GLASS;
+
+yellow_stained_glass_pane
+return Items.YELLOW_STAINED_GLASS_PANE;
+
+yellow_terracotta
+return Items.YELLOW_TERRACOTTA;
+
+yellow_wool
+return Items.YELLOW_WOOL;
+
+zoglin_spawn_egg
+return Items.ZOGLIN_SPAWN_EGG;
+
+zombie_head
+return Items.ZOMBIE_HEAD;
+
+zombie_horse_spawn_egg
+return Items.ZOMBIE_HORSE_SPAWN_EGG;
+
+zombie_spawn_egg
+return Items.ZOMBIE_SPAWN_EGG;
+
+zombie_villager_spawn_egg
+return Items.ZOMBIE_VILLAGER_SPAWN_EGG;
+
+zombified_piglin_spawn_egg
+return Items.ZOMBIFIED_PIGLIN_SPAWN_EGG;
