@@ -19,12 +19,12 @@ Note 2: This mod *could* be expanded to include modded items as some have sugges
 
 ---
 
-<span style="color:red;">**DISCLAIMER:** The usage of this mod requires Groq API for llama-3.1-8b-instant. The mod will not work otherwise.</span>
+<span style="color:red;">**DISCLAIMER:** The usage of this mod requires Groq API for openai/gpt-oss-120. The mod will not work otherwise.</span>
 
 ---
 ## Requirements
 
-- A **Groq Cloud Account** (specifically using `llama-3.1-8b-instant`)  
+- A **Groq Cloud Account** (specifically using `openai/gpt-oss-120`)  
 - A **Python IDE**  
 - **Fabric Loader 1.20.1**  
 
