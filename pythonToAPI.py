@@ -20,7 +20,7 @@ outputPath = "itemOutput.txt"
 
 def get_gpt_response(prompt):
     response = client.chat.completions.create(
-        model="llama-3.1-8b-instant",
+        model="openai/gpt-oss-120b",
         messages=[
             {"role": "system", "content": file_contents},
             {"role": "user", "content": prompt}
