@@ -19,12 +19,12 @@ Note 2: This mod *could* be expanded to include modded items as some have sugges
 
 ---
 
-<span style="color:red;">**DISCLAIMER:** The usage of this mod requires paying for API credits for GPT-3.5-Turbo. The mod will not work otherwise.</span>
+<span style="color:red;">**DISCLAIMER:** The usage of this mod requires Groq API for llama-3.1-8b-instant. The mod will not work otherwise.</span>
 
 ---
 ## Requirements
 
-- A **ChatGPT API Account** (specifically using `GPT-3.5-turbo`)  
+- A **Groq Cloud Account** (specifically using `llama-3.1-8b-instant`)  
 - A **Python IDE**  
 - **Fabric Loader 1.20.1**  
 
